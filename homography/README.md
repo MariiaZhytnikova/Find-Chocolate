@@ -11,6 +11,8 @@ Goal: detect a planar marker in each video frame using ORB feature matching, est
 
 ## Input -> output example
 
+(Video will be added later)
+
 | Item | Example |
 | --- | --- |
 | Marker (input image) | ![marker](../source/marker.jpg) |
