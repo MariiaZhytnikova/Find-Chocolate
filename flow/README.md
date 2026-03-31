@@ -11,6 +11,8 @@ Goal: detect the target in the first frame using ORB keypoints (matched with a m
 
 ## Input -> output example
 
+(Video will be added later)
+
 | Item | Example |
 | --- | --- |
 | Marker (input image) | ![marker](../source/marker.jpg) |
