@@ -16,12 +16,12 @@ Both tasks use the same source assets from `source/`.
 ## Inputs
 
 - Marker image: `source/marker.jpg`
-- Source video: `source/find_chocolate.mp4`
+- Source video: `source/find_chocolate.mp4` (will be added later)
 
 ## Outputs
 
 - Optical flow result: `flow/ORB_Opt_Flow.avi`
-- Homography result: `homography/ORB_Homography.avi`
+- Homography result: `homography/ORB_Homography.avi` (will be added later)
 
 ## Read task details
 
